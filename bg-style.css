@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    background-image: url(img/avatar.jpg);
+    background-repeat: no-repeat;
+    /* background-position: center center; */
+}
+h1{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
