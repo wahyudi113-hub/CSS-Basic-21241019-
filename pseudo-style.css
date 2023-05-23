@@ -1,0 +1,32 @@
+.kampus{
+    color: rgb(6, 255, 6);
+}
+.kampus:hover{
+    font-family: arial;
+    font-size: 20px;
+    color: aqua;
+}
+.kampus:active{
+    font-style: italic;
+}
+.kampus:visited{
+    color: pink;
+}
+li:first-child a{
+    color: coral;
+}
+li:last-child a{
+    color: darkcyan;
+}
+li:nth-child(4n-1) a{
+    color: brown;
+}
+li:nth-child(even) a{
+    color:aqua
+}
+p:first-of-type{
+    color: orange;
+}
+p:last-of-type{
+    color: teal;
+}
