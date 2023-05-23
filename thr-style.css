@@ -1,0 +1,107 @@
+body {
+    font: 16px/28px arial, sans-serif;
+    background-color: #eaeaea;
+    color: #333;
+    background-image: url(img/bg.jpg);
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: #ffffff;
+}
+.header {
+    padding: 1px;
+    padding-bottom: 3px;
+}
+
+.header .judul {
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 38px;
+    margin-bottom: 0px;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-right: 10px;
+
+}
+
+.header a {
+    text-decoration: none;
+    color: #bc4749;
+}
+
+.header a:hover {
+    background-color: #eaeaea;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+}
+
+.hero{
+    height: 500px;
+    background-image: url(img/ilustrasi\ virus\ Corona.jpg);
+    background-size: cover;
+    border-top: 5px solid red;
+    border-bottom: 5px solid blue;
+}
+
+.content {
+    padding: 40px;
+    margin-top: -30px;
+}
+.content h2{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.content .penulis{
+    font-size: 12px;
+    margin-top: -20px;
+}
+
+.content .penulis a{
+    text-decoration: none;
+    color: #bc4749;
+}
+
+.penulis a:hover {
+    background-color: #eaeaea;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+}
+
+.content p{
+    font-size: 14px;
+    text-align: justify;
+}
+
+.content table {
+    font-size: 14px;
+}
+
+.footer{
+    background-color: #333; 
+    padding: 10px;
+}
+.footer .copy{
+    color: #eaeaea;
+    text-align: center;
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
